@@ -1,5 +1,5 @@
 //模拟没有冲突的PR
-//coder1992用户修改，模拟冲突
+//opensource-test用户修改，模拟冲突
 str1='0b101010'
 print(int(str1,2))
 
